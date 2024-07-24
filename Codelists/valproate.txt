@@ -1,0 +1,98 @@
+	prodcode	productname	ingredient	bnfchapter	bnftext
+94	72408	Valproic acid 500mg/5ml oral suspension	Valproate semisodium	04020300/04080100	Products Used For Mania And Hypomania/Control Of Epilepsy
+159	7064	Depakote 250mg gastro-resistant tablets (Sanofi)	Valproate semisodium	04020300/04070402	Products Used For Mania And Hypomania/Prophylaxis Of Migraine
+1188	34632	Sodium valproate 200mg gastro-resistant tablets (Teva UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+1237	5997	Convulex 150mg gastro-resistant capsules (Gerot Lannach UK Ltd)	Valproic acid	04070402/04080100	Prophylaxis Of Migraine/Control Of Epilepsy
+4796	6560	Sodium valproate 500mg modified-release tablets	Sodium valproate	04080100	Control Of Epilepsy
+5299	44903	Sodium valproate 500mg gastro-resistant tablets (Zentiva Pharma UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+6189	69555	Valproic acid 125mg gastro-resistant capsules	Valproate semisodium	04080100	Control Of Epilepsy
+7131	18886	Convulex 500mg gastro-resistant capsules (Gerot Lannach UK Ltd)	Valproic acid	04070402/04080100	Prophylaxis Of Migraine/Control Of Epilepsy
+7396	3350	Sodium valproate 500mg gastro-resistant tablets	Sodium valproate	04080100	Control Of Epilepsy
+8023	82295	Sodium valproate 200mg modified-release tablets (Ennogen Healthcare Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+8911	18614	Valproic acid 150mg gastro-resistant capsules	Valproic acid	04070402/04080100	Prophylaxis Of Migraine/Control Of Epilepsy
+9233	82293	Sodium valproate 300mg modified-release tablets (Colorama Pharmaceuticals Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+9455	60102	Sodium valproate 500mg modified-release tablets (J M McGill Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+10076	11075	Sodium valproate with valproic acid 500mg modified release tablets	Sodium Valproate	04080100	Control Of Epilepsy
+10870	77513	Sodium valproate 200mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+11538	53211	Valproic acid 500mg/5ml oral solution	Valproate semisodium	04020300/04080100	Products Used For Mania And Hypomania/Control Of Epilepsy
+12299	4502	Sodium valproate 100mg tablets	Sodium valproate	04080100	Control Of Epilepsy
+12463	82294	Sodium valproate 200mg modified-release tablets (DE Pharmaceuticals)	Sodium valproate	04080100	Control Of Epilepsy
+15416	16609	Sodium valproate 400mg powder and solvent for solution for injection vials	Sodium valproate	04080100	Control Of Epilepsy
+16705	43742	Sodium valproate 1g/10ml solution for injection ampoules	Sodium valproate	04080100	Control Of Epilepsy
+17380	5617	Convulex 300mg gastro-resistant capsules (Gerot Lannach UK Ltd)	Valproic acid	04070402/04080100	Prophylaxis Of Migraine/Control Of Epilepsy
+19430	75188	Sodium valproate CR 300mg Tablet (Hillcross Pharmaceuticals Ltd)	Sodium Valproate	04080100	Control Of Epilepsy
+20429	44718	Sodium valproate 750mg modified-release granules sachets sugar free	Sodium valproate	04080100	Control Of Epilepsy
+22275	37306	Sodium valproate 200mg/5ml Oral solution (Sterwin Medicines)	Sodium valproate	04080100	Control Of Epilepsy
+24172	68457	Sodium valproate 300mg suppositories	Sodium valproate	04080100	Control Of Epilepsy
+24868	67798	Sodium valproate 400mg/4ml solution for injection ampoules	Sodium valproate	04080100	Control Of Epilepsy
+25385	80341	Belvo 250mg gastro-resistant tablets (Consilient Health Ltd)	Valproate semisodium	04020300/04070402	Products Used For Mania And Hypomania/Prophylaxis Of Migraine
+26363	85887	Dyzantil 200mg modified-release tablets (Aspire Pharma Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+28014	35755	Sodium valproate 500mg modified-release granules sachets sugar free	Sodium valproate	04080100	Control Of Epilepsy
+29832	74848	Sodium valproate 500mg gastro-resistant tablets (Arrow Generics Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+29947	9759	Depakote 500mg gastro-resistant tablets (Sanofi)	Valproate semisodium	04020300/04070402	Products Used For Mania And Hypomania/Prophylaxis Of Migraine
+30687	80597	Syonell 250mg gastro-resistant tablets (Lupin Healthcare (UK) Ltd)	Valproate semisodium	04020300/04070402	Products Used For Mania And Hypomania/Prophylaxis Of Migraine
+30779	34883	Sodium valproate 200mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+31552	43387	Sodium valproate with valproic acid 50mg modified release granules	Sodium Valproate	04080100	Control Of Epilepsy
+33984	41137	Sodium valproate with valproic acid 100mg modified release granules	Sodium Valproate	04080100	Control Of Epilepsy
+34342	43648	Sodium valproate oral solution	Sodium Valproate	04080100	Control Of Epilepsy
+35137	44472	Sodium valproate 100mg modified-release granules sachets sugar free	Sodium valproate	04080100	Control Of Epilepsy
+35985	34150	Valproate sodium 200mg Gastro-resistant tablet (IVAX Pharmaceuticals UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+38310	84145	Sodium valproate 500mg/5ml oral solution	Sodium valproate	04080100	Control Of Epilepsy
+38393	35471	Sodium valproate 150mg modified-release capsules	Sodium valproate	04080100	Control Of Epilepsy
+39410	7011	Sodium valproate with valproic acid 300mg modified release tablets	Sodium Valproate	04080100	Control Of Epilepsy
+40043	36318	Sodium valproate 1g modified-release granules sachets sugar free	Sodium valproate	04080100	Control Of Epilepsy
+40132	60332	Sodium valproate 200mg/5ml oral solution sugar free (Wockhardt UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+40385	30081	Sodium valproate CR 500mg Tablet (Hillcross Pharmaceuticals Ltd)	Sodium Valproate	04080100	Control Of Epilepsy
+40732	76477	Depakote 125mg sprinkle gastro-resistant capsules (Imported (United States))	Valproate semisodium	04080100	Control Of Epilepsy
+40932	71621	Sodium valproate 200mg gastro-resistant tablets (Zentiva Pharma UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+41877	34707	Sodium valproate 200mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+43708	39427	Sodium valproate with valproic acid 750mg modified release granules	Sodium Valproate	04080100	Control Of Epilepsy
+43819	40395	Sodium valproate 100mg tablets (Viatris UK Healthcare Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+44154	74482	Valproic acid 250mg/5ml oral suspension	Valproate semisodium	04020300/04080100	Products Used For Mania And Hypomania/Control Of Epilepsy
+44639	56076	Sodium valproate 500mg/5ml oral suspension	Sodium valproate	04080100	Control Of Epilepsy
+46058	51751	Sodium valproate 200mg gastro-resistant tablets (Wockhardt UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+46264	33106	Sodium valproate 200mg/5ml Oral solution (IVAX Pharmaceuticals UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+47674	45106	Sodium valproate 250mg modified-release granules sachets sugar free	Sodium valproate	04080100	Control Of Epilepsy
+49344	45419	Sodium valproate 50mg modified-release granules sachets sugar free	Sodium valproate	04080100	Control Of Epilepsy
+50040	39452	Sodium valproate with valproic acid 500mg modified release granules	Sodium Valproate	04080100	Control Of Epilepsy
+50073	46774	Sodium valproate 500mg gastro-resistant tablets (Teva UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+50284	77514	Sodium valproate 500mg gastro-resistant tablets (Wockhardt UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+50828	35024	Sodium valproate 300mg modified-release capsules	Sodium valproate	04080100	Control Of Epilepsy
+51210	34414	Sodium valproate 200mg Tablet (Sterwin Medicines)	Sodium valproate	04080100	Control Of Epilepsy
+51578	40070	Sodium valproate 300mg/3ml solution for injection ampoules	Sodium valproate	04080100	Control Of Epilepsy
+51964	15650	Valproic acid 300mg gastro-resistant capsules	Valproic acid	04070402/04080100	Prophylaxis Of Migraine/Control Of Epilepsy
+52584	42090	Sodium valproate 200mg/5ml oral solution sugar free (Zentiva Pharma UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+52728	39039	Sodium valproate 200mg modified-release tablets	Sodium valproate	04080100	Control Of Epilepsy
+53601	54828	Sodium valproate 600mg/5ml oral solution	Sodium valproate	04080100	Control Of Epilepsy
+54344	72851	Valproic acid 250mg/5ml oral solution	Valproate semisodium	04020300/04080100	Products Used For Mania And Hypomania/Control Of Epilepsy
+55285	34151	Valproate sodium 500mg Gastro-resistant tablet (IVAX Pharmaceuticals UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+55310	85888	Dyzantil 500mg modified-release tablets (Aspire Pharma Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+57309	80973	Sodium valproate 500mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+57487	34120	Sodium valproate 200mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+59730	6305	Valproic acid 500mg gastro-resistant tablets	Valproate semisodium	04020300/04070402	Products Used For Mania And Hypomania/Prophylaxis Of Migraine
+60190	1550	Sodium valproate 200mg/5ml oral solution	Sodium valproate	04080100	Control Of Epilepsy
+60359	55006	Sodium valproate 500mg modified-release tablets (Alliance Healthcare (Distribution) Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+64362	53197	Sodium valproate 300mg modified-release tablets (Sigma Pharmaceuticals Plc)	Sodium valproate	04080100	Control Of Epilepsy
+64603	81608	Sodium valproate 500mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+67550	5848	Valproic acid 250mg gastro-resistant tablets	Valproate semisodium	04020300/04070402	Products Used For Mania And Hypomania/Prophylaxis Of Migraine
+71431	77272	Sodium valproate 500mg Tablet (Sterwin Medicines)	Sodium valproate	04080100	Control Of Epilepsy
+71781	9168	SOD VALPROATE C/R 200 MG TAB		00000000	Unknown
+71855	68151	Sodium valproate 60mg/5ml oral solution	Sodium valproate	04080100	Control Of Epilepsy
+73529	80601	Syonell 500mg gastro-resistant tablets (Lupin Healthcare (UK) Ltd)	Valproate semisodium	04020300/04070402	Products Used For Mania And Hypomania/Prophylaxis Of Migraine
+74089	39276	Sodium valproate with valproic acid 250mg modified release granules	Sodium Valproate	04080100	Control Of Epilepsy
+74138	34178	Sodium valproate 500mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+74956	80329	Belvo 500mg gastro-resistant tablets (Consilient Health Ltd)	Valproate semisodium	04020300/04070402	Products Used For Mania And Hypomania/Prophylaxis Of Migraine
+75212	9281	Sodium valproate with valproic acid 200mg modified release tablets	Sodium Valproate	04080100	Control Of Epilepsy
+75824	40400	Sodium valproate 500mg Gastro-resistant tablet (C P Pharmaceuticals Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+76828	78727	Sodium valproate 500mg gastro-resistant tablets (Viatris UK Healthcare Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+77486	34626	Sodium valproate 200mg gastro-resistant tablets (Viatris UK Healthcare Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+77601	82296	Sodium valproate 300mg modified-release tablets (Ennogen Healthcare Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+79549	76964	Sodium valproate 200mg gastro-resistant tablets (Waymade Healthcare Plc)	Sodium valproate	04080100	Control Of Epilepsy
+79683	77195	Sodium valproate 500mg modified-release tablets (DE Pharmaceuticals)	Sodium valproate	04080100	Control Of Epilepsy
+80097	43178	Sodium valproate with valproic acid 1000mg modified release granules	Sodium Valproate	04080100	Control Of Epilepsy
+84332	45344	Sodium valproate 200mg/5ml Oral solution (Hillcross Pharmaceuticals Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+84774	6711	Sodium valproate 300mg modified-release tablets	Sodium valproate	04080100	Control Of Epilepsy
+84825	584	Sodium valproate 200mg gastro-resistant tablets	Sodium valproate	04080100	Control Of Epilepsy
+85564	62637	Sodium valproate 200mg gastro-resistant tablets (Actavis UK Ltd)	Sodium valproate	04080100	Control Of Epilepsy
+85975	3845	Sodium valproate 200mg/5ml oral solution sugar free	Sodium valproate	04080100	Control Of Epilepsy
+86205	16021	Valproic acid 500mg gastro-resistant capsules	Valproic acid	04070402/04080100	Prophylaxis Of Migraine/Control Of Epilepsy
