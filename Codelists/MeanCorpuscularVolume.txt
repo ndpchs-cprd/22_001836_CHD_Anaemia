@@ -1,2 +1,0 @@
-	medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease
-71626	10	42A..00	8706	0	19063	41679535	Mean corpuscular volume (MCV)	February 2009
