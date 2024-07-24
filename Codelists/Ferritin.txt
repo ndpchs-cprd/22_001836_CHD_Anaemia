@@ -1,2 +1,0 @@
-	medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease
-17899	8491	42R4.00	4823	0	6452	8114399	Serum ferritin	February 2009
